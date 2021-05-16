@@ -30,10 +30,13 @@ enter your credentials
 ## Main Config Especially for React Projects
 
 What do you want to use as your public directory? build <br>
+
 Configure as a single-page app (rewrite all urls to /index.html)? <br>
+
 File ***build/index.html*** already exists. Overwrite? (y/N) N
 
 ## Deploy to Firebase
+
 `firebase deploy`
 
 
